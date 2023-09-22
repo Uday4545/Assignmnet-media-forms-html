@@ -1,0 +1,45 @@
+﻿1. List out the features of HTML5.
+
+
+* Improved Multimedia support
+* Canvas element
+* Geolocation API 
+* Local Storage 
+* New Structural Elements ( <header>, <footer>, <nav>, <article> etc )
+* Form Improvements ( date, time, color, required and autofocus )
+* Accessibility improvements 
+
+
+2. What are HTML entities? List out any 5 commonly used entities
+
+
+HTML entities are the reserved characters that are used in the HTML document. They are not present in your standard keyboard. They provide a wide range of characters, allowing you to add icons, geometric shapes, mathematical operators, and so on
+
+
+5 commonly used HTML entities are:-
+* &lt;  -  Less than <
+* &gt; - Greater than >
+* &amp; - ampersand &
+* &copy; - copyright ©
+* &reg; - registered trademark
+
+
+3. What is accessibility in the context of web development. Discuss why it is important to create accessible websites and how it benefits different user groups
+
+
+Accessibility in web development refers to the practice of designing and coding web content in a way that ensures it can be easily accessed, understood, and interacted with by people of diverse abilities, including those with disabilities. 
+
+
+   By making our website accessible, we are ensuring that all of our potential users, including people with disabilities, have a decent user experience and are able to easily access your information. By implementing accessibility best practices, we are also improving the usability of the site for all users.
+
+
+4. List any 3 ways which help us in improving the accessibility of HTML.
+
+
+* Assign alt tags for images : Images on a webpage provide great value to users. Nonetheless, they can create barriers for users with limited or impaired vision. Therefore, assigning alt tags to images will provide a description of the images allowing users to understand the image through the use of a screen reader. Alt tags also contribute to a higher SEO score on Google.
+
+
+*  Design forms for web accessibility : When designing online forms, it is important to properly label text fields with a descriptive title so people who rely on screen readers can properly complete the forms. Using label tags or an ARIA property will increase the accessibility of your web forms.
+
+
+* Use descriptive title for links : Using descriptive titles for links will make it easier for those who rely on screen readers to navigate your website to understand the purpose of the link and where they will be redirected.
